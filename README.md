@@ -1,7 +1,6 @@
 # React_Facebook_DropDownMenu_Transition
 
 FaceBook dropdown transition of nested menu
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73548959/183233809-55905efb-0109-484d-9006-9129d0f398a1.gif)
 
-
-https://user-images.githubusercontent.com/73548959/183233654-e22f172a-999a-48b2-ba94-5a254079d1e9.mp4
 
